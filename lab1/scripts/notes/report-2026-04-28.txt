@@ -1,3 +1,0 @@
-User: root
-Current Path: /root/AP-lab/lab1/scripts
-Files in ./data: 0
